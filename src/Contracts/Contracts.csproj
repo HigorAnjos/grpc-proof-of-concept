@@ -16,7 +16,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Protobuf Include="Protos\Account.proto" />
+	  <Protobuf Include="Protos\AccountService.proto" />
 	  <Protobuf Include="Protos\OrderService.proto" />
 	</ItemGroup>
 
